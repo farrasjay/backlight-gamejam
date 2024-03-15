@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/shield_break.mp3-3ca45960cf45fd0e76aa47efc62be0f2.mp3str"
+
+[deps]
+
+source_file="res://assets/sfx/SuperGrottoEScape Audio Music Files/shield_break.mp3"
+dest_files=[ "res://.import/shield_break.mp3-3ca45960cf45fd0e76aa47efc62be0f2.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

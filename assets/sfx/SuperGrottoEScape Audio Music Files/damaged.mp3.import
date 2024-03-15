@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/damaged.mp3-bd514b5ad308503262d26406caf5698e.mp3str"
+
+[deps]
+
+source_file="res://assets/sfx/SuperGrottoEScape Audio Music Files/damaged.mp3"
+dest_files=[ "res://.import/damaged.mp3-bd514b5ad308503262d26406caf5698e.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

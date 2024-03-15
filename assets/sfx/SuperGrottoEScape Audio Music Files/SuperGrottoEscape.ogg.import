@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/SuperGrottoEscape.ogg-6e77a537cdefef31290dbdfc6587e572.oggstr"
+
+[deps]
+
+source_file="res://assets/sfx/SuperGrottoEScape Audio Music Files/SuperGrottoEscape.ogg"
+dest_files=[ "res://.import/SuperGrottoEscape.ogg-6e77a537cdefef31290dbdfc6587e572.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

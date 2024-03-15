@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/bandit_sword.mp3-94e7699b2ba357a14e8f0cfec06ae91c.mp3str"
+
+[deps]
+
+source_file="res://assets/sfx/SuperGrottoEScape Audio Music Files/bandit_sword.mp3"
+dest_files=[ "res://.import/bandit_sword.mp3-94e7699b2ba357a14e8f0cfec06ae91c.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

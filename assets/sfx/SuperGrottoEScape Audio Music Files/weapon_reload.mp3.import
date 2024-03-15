@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/weapon_reload.mp3-83641b93e75634b1bbd5c44dd08ad6e2.mp3str"
+
+[deps]
+
+source_file="res://assets/sfx/SuperGrottoEScape Audio Music Files/weapon_reload.mp3"
+dest_files=[ "res://.import/weapon_reload.mp3-83641b93e75634b1bbd5c44dd08ad6e2.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

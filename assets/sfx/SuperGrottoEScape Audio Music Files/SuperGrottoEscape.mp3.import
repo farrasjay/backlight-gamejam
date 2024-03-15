@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/SuperGrottoEscape.mp3-cb98783314f37fbe5ec00e69f24c4133.mp3str"
+
+[deps]
+
+source_file="res://assets/sfx/SuperGrottoEScape Audio Music Files/SuperGrottoEscape.mp3"
+dest_files=[ "res://.import/SuperGrottoEscape.mp3-cb98783314f37fbe5ec00e69f24c4133.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

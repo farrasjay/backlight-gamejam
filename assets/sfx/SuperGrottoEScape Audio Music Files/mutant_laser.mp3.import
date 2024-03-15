@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/mutant_laser.mp3-39d218cc7ee4132348bdbff700453218.mp3str"
+
+[deps]
+
+source_file="res://assets/sfx/SuperGrottoEScape Audio Music Files/mutant_laser.mp3"
+dest_files=[ "res://.import/mutant_laser.mp3-39d218cc7ee4132348bdbff700453218.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
